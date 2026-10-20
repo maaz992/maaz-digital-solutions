@@ -1,6 +1,6 @@
 // Maaz Digital Solutions — small, dependency-free interactions.
 // IMPORTANT: Replace the placeholder below with your real business email before publishing.
-const BUSINESS_EMAIL = "YOUR_EMAIL@example.com";
+const BUSINESS_EMAIL = "maazmehmood10@gmail.com";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
